@@ -5,7 +5,8 @@
 # Data standards and metadata
   
 # Storage and security
-  Every day data will be stored in excel files through automatic sampling so lots of data will be generated. Excel files are to be stored on a computer and external hard drive (for safety). Models will be built with software python and MATLAB, stored in software, and downloaded and saved to computer/external hard drive. For me, there is an important component of saving data and work to my personal laptop as well as using my grad desktop in my office. Important breakthroughs in the research will be shared through zoom meetings and email. Once a paper is in progress, I think it would be beneficial to have a shared document that each person contributes to; access will be granted through a 2-step authentication and the PI will send out the link to the shared document to the project contributors only. 
+  Every day data will be stored in XLSX through automatic sampling so lots of data will be generated. Files are to be stored on a computer and external hard drive (for safety). Models will be built with software python and MATLAB, stored in GitHub, and downloaded and saved to computer/external hard drive.Important breakthroughs in the research will be shared through zoom meetings and email. Once a paper is in progress, a shared Box will be used by all contributors; access will be granted through a 2-step authentication.
 # Access and data sharing
-  All collaborators will have access to necessary materials throughut the project. The genome data will eventually be publicly available for use and re-use. 
+  All collaborators will have access to necessary materials throughout the project. The genome data and metabolic models will be publicly available for use and re-use and will be accessible when a manuscript is published. Data is available in the Biological General Repository for Interaction Datasets (BioGRID). data content is distributed through the creative commons international license. 
 # Archiving and preservation
+All data will be archived for the lifetime that the manuscript is available online (assume indefinitely). 
